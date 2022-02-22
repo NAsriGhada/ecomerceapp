@@ -1,0 +1,18 @@
+.sectionTwo{
+    background-color: #e0e5eb;
+    position: relative;
+    height: 650px;
+}
+.sectionTwoTitle{
+    text-align: center;
+    font-size: 3rem;
+    font-family: "Montserrat" sans-serif;
+    letter-spacing: 1.5px;
+}
+.sectionTwoRedBg{
+    position: absolute;
+    background-color: #df1212;
+    top: 350px;
+    height: 300px;
+    width: 100%;
+}

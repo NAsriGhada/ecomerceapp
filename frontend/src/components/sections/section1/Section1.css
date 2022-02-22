@@ -1,0 +1,35 @@
+.firstSection{
+    background-color: #e0e5eb;
+   
+   height: 1000px;
+   position: relative;
+}
+.redbg{
+    position: absolute;
+    background-color: #df1212;
+    height: 300px;
+    top: 300px;
+    width: 100%;
+}
+.sectionOneImg{
+    position: absolute;
+    left: 350px;
+}
+.sectionOneCarousel{
+    width: 500px;
+    height: 500px;
+    position:absolute;
+    top: 450px;
+    left:100px;
+}
+.sectionOneButton{
+    background-color: #df1212;
+    color: white;
+    border: none;
+    padding: 20px 43px 20px 42px;
+    letter-spacing: 2px;
+    border-radius: 5px;
+}
+.sectionOneButton:hover{
+    background-color: black;
+}
