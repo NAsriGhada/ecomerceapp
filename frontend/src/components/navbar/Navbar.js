@@ -9,12 +9,10 @@ const NavBar = () => {
         <img src="https://thumbs.dreamstime.com/b/brosse-logo-vector-design-illustration-de-la-tunisie-134958505.jpg" alt="" width="50" height="50"/>
       </div>
       <div>
-      <div className="search-container">
-    <form >
-      <input className='input' type="text" placeholder="Search.." name="search"/>
-      <button className='button' type="submit"><i className="fa fa-search"></i></button>
-    </form>
-  </div>
+      <div className="search-box">
+        <button className="btn-search"><i className="fas fa-search" /></button>
+        <input type="text" className="input-search" placeholder="Type to Search..." />
+      </div>
       </div>
       <div className="nav">
         <ul>

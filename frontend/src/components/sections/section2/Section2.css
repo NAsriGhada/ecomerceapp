@@ -16,3 +16,17 @@
     height: 300px;
     width: 100%;
 }
+.sectionTwoCard{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 100px;
+    
+}
+.cardOne{
+    margin-top: 100px;
+    height: 200px;
+}
+.cardTwo{
+   
+    height: 200px;
+}
