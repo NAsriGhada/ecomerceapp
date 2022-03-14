@@ -1,25 +1,25 @@
-
-.navbar{
-    display: flex;
-    justify-content: space-between;  
-    position: fixed;
-    width: 100%;
-    top: 0;
-    z-index: 10;
-    background-color: white;
-   
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 10;
+  background-color: white;
 }
- .nav ul{
-    display: flex;
-    gap: 50px;
-    margin-right: 20px;
+.nav ul {
+  display: flex;
+  gap: 50px;
+  margin-right: 20px;
 }
-.nav ul li{
-    list-style: none;
+.nav ul li {
+  list-style: none;
 }
-.nav ul li:hover{
-    background-color: #df1212;
-    opacity: 1;
+.nav ul li:hover {
+  background-color: #df1212;
+  opacity: 1;
 }
-
-
+.nav ul li a {
+  text-decoration: none;
+  color: black;
+}
