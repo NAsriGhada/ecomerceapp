@@ -9,27 +9,27 @@ const categories = [
     title: "CONSULTATIONS",
   },
   {
-    id: 1,
+    id: 2,
     img: "https://images01.nicepage.com/c461c07a441a5d220e8feb1a/e7a8f7e6ae845cbd84231167/c72653bd-4385-55f5-27f2-b5f458e7dcc2.jpg",
     title: "CONSULTATIONS",
   },
   {
-    id: 1,
+    id: 3,
     img: "https://images01.nicepage.com/c461c07a441a5d220e8feb1a/e7a8f7e6ae845cbd84231167/c72653bd-4385-55f5-27f2-b5f458e7dcc2.jpg",
     title: "CONSULTATIONS",
   },
   {
-    id: 1,
+    id: 4,
     img: "https://images01.nicepage.com/c461c07a441a5d220e8feb1a/e7a8f7e6ae845cbd84231167/c72653bd-4385-55f5-27f2-b5f458e7dcc2.jpg",
     title: "CONSULTATIONS",
   },
   {
-    id: 1,
+    id: 5,
     img: "https://images01.nicepage.com/c461c07a441a5d220e8feb1a/e7a8f7e6ae845cbd84231167/c72653bd-4385-55f5-27f2-b5f458e7dcc2.jpg",
     title: "CONSULTATIONS",
   },
   {
-    id: 1,
+    id: 6,
     img: "https://images01.nicepage.com/c461c07a441a5d220e8feb1a/e7a8f7e6ae845cbd84231167/c72653bd-4385-55f5-27f2-b5f458e7dcc2.jpg",
     title: "CONSULTATIONS",
   },

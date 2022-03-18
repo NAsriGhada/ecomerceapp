@@ -1,10 +1,22 @@
-.sectionSix{
-    display: flex;
-    justify-content: space-between;
-
-
+.sectionSix {
+  display: flex;
+  justify-content: space-between;
 }
-.sectionSixAbout{
-    padding: 150px;
-    
+.sectionSixAbout {
+  padding: 110px;
+}
+@media only screen and (max-width: 600px) {
+  .sectionSix {
+    display: flex;
+    flex-direction: column;
+  }
+  .sectionSixImg img {
+    width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .sectionSixAbout {
+    padding: 100px;
+  }
 }

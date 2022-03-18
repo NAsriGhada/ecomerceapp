@@ -10,8 +10,6 @@ function Section1() {
         <img
           src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/3015ff09e0cb58feaa453e5c/tytyyty-min.jpg"
           alt=""
-          width="970"
-          height="700"
         />
       </div>
       <div className="sectionOneCarousel">
@@ -21,8 +19,8 @@ function Section1() {
               className="d-block w-100"
               src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/d0bbdfb28cbc5e918d68f21e/rrrrr-min.jpg"
               alt="First slide"
-              width="450"
-              height="450"
+              width="400"
+              height="400"
             />
             <Carousel.Caption>
               <button className="sectionOneButton">Product</button>
@@ -33,8 +31,8 @@ function Section1() {
               className="d-block w-100"
               src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/d0bbdfb28cbc5e918d68f21e/rrrrr-min.jpg"
               alt="Second slide"
-              width="450"
-              height="450"
+              width="400"
+              height="400"
             />
             <Carousel.Caption>
               <button className="sectionOneButton">Product</button>
@@ -45,8 +43,8 @@ function Section1() {
               className="d-block w-100"
               src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/d0bbdfb28cbc5e918d68f21e/rrrrr-min.jpg"
               alt="Third slide"
-              width="450"
-              height="450"
+              width="400"
+              height="400"
             />
             <Carousel.Caption>
               <button className="sectionOneButton">Product</button>

@@ -1,35 +1,83 @@
-.firstSection{
-    background-color: #e0e5eb;
-   
-   height: 1000px;
-   position: relative;
+.firstSection {
+  background-color: #e0e5eb;
+  height: 1000px;
+  position: relative;
 }
-.redbg{
+.redbg {
+  position: absolute;
+  background-color: #df1212;
+  height: 300px;
+  top: 260px;
+  width: 100%;
+}
+.sectionOneImg {
+  position: absolute;
+  left: 300px;
+}
+.sectionOneImg img {
+  width: 900px;
+  height: 650px;
+}
+.sectionOneCarousel {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  top: 430px;
+  left: 100px;
+}
+.sectionOneButton {
+  background-color: #df1212;
+  color: white;
+  border: none;
+  padding: 20px 43px 20px 42px;
+  letter-spacing: 2px;
+  border-radius: 5px;
+}
+.sectionOneButton:hover {
+  background-color: black;
+}
+@media only screen and (max-width: 600px) {
+  .firstSection {
+    background-color: #e0e5eb;
+    height: 1000px;
+    position: relative;
+  }
+  .redbg {
     position: absolute;
     background-color: #df1212;
-    height: 300px;
-    top: 300px;
+    height: 150px;
+    top: 130px;
     width: 100%;
-}
-.sectionOneImg{
+  }
+  .sectionOneImg {
     position: absolute;
-    left: 350px;
-}
-.sectionOneCarousel{
-    width: 500px;
-    height: 500px;
-    position:absolute;
-    top: 450px;
-    left:100px;
-}
-.sectionOneButton{
+    left: 50px;
+  }
+  .sectionOneImg img {
+    width: 370px;
+    height: 350px;
+  }
+
+  .sectionOneCarousel {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 300px;
+    left: 80px;
+  }
+  .sectionOneCarousel img {
+    width: 200px;
+    height: 200px;
+  }
+  .sectionOneButton {
     background-color: #df1212;
     color: white;
     border: none;
-    padding: 20px 43px 20px 42px;
+    padding: 10px 23px 10px 22px;
     letter-spacing: 2px;
     border-radius: 5px;
-}
-.sectionOneButton:hover{
+  }
+  .sectionOneButton:hover {
     background-color: black;
+  }
 }

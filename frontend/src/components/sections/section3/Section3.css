@@ -1,41 +1,59 @@
-
-@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Josefin+Sans:wght@100;200;300;400;500;600;700&family=Lora:ital,wght@1,400;1,500;1,600;1,700&family=Montserrat:ital,wght@0,100;0,400;1,300&family=Open+Sans:wght@300&family=Varela&family=Varela+Round&display=swap');
-.sectionThree{
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Josefin+Sans:wght@100;200;300;400;500;600;700&family=Lora:ital,wght@1,400;1,500;1,600;1,700&family=Montserrat:ital,wght@0,100;0,400;1,300&family=Open+Sans:wght@300&family=Varela&family=Varela+Round&display=swap");
+.sectionThree {
+  background-color: #e0e5eb;
+  width: 100%;
+  height: 430px;
+  padding-top: 80px;
+  text-align: center;
+}
+.titleSectionThree {
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Montserrat" sans-serif;
+  letter-spacing: 1.5px;
+  font-weight: 400;
+  font-size: 3rem;
+  margin-bottom: 50px;
+}
+.paragraphSectionThree {
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 300;
+  font-family: "Open Sans";
+  margin-bottom: 30px;
+}
+.sectionThreeBtn {
+  background-color: #df1212;
+  color: white;
+  border: none;
+  padding: 20px 43px 20px 42px;
+  letter-spacing: 2px;
+  border-radius: 5px;
+  text-align: center;
+}
+.sectionThreeBtn:hover {
+  background-color: black;
+}
+@media only screen and (max-width: 600px) {
+  .sectionThree {
     background-color: #e0e5eb;
     width: 100%;
-    height: 430px;
+    height: 460px;
     padding-top: 80px;
     text-align: center;
-}
-.titleSectionThree{
+  }
+  .titleSectionThree {
     text-align: center;
-    font-size: 3rem;
+    font-size: 1.5rem;
     font-family: "Montserrat" sans-serif;
     letter-spacing: 1.5px;
-    font-weight: 400;
-font-size: 3rem;
-margin-bottom: 50px;
-
-
-}
-.paragraphSectionThree{
+    margin-bottom: 50px;
+  }
+  .paragraphSectionThree {
     text-align: center;
-    font-size: 1.25rem;
-font-weight: 300;
-font-family: "Open Sans";
-margin-bottom: 30px;
-
-}
-.sectionThreeBtn{
-    background-color: #df1212;
-    color: white;
-    border: none;
-    padding: 20px 43px 20px 42px;
-    letter-spacing: 2px;
-    border-radius: 5px;
-    text-align: center;
-   
-}
-.sectionThreeBtn:hover{
-    background-color: black;
+    font-size: 1rem;
+    font-weight: 300;
+    font-family: "Open Sans";
+    margin-bottom: 50px;
+  }
 }
