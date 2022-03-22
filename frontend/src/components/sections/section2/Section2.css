@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&family=Playfair+Display:ital,wght@0,400;0,500;1,400&display=swap");
 .sectionTwo {
   background-color: #e0e5eb;
   position: relative;
@@ -7,6 +8,8 @@
   text-align: center;
   font-size: 3rem;
   font-family: "Montserrat" sans-serif;
+  letter-spacing: 1.5px;
+  font-weight: 450;
   letter-spacing: 1.5px;
 }
 .sectionTwoRedBg {

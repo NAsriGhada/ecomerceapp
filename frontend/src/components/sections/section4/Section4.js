@@ -3,7 +3,7 @@ import "./Section4.css";
 
 function Section4() {
   return (
-    <div className="sectionFour" id="sectionFour">
+    <div className="sectionFour" id="about">
       <div className="sectionFourCont">
         <h2 className="sectionFourH2"> About Company</h2>
         <h6 className="sectionFourH6">

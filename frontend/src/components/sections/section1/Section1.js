@@ -4,7 +4,7 @@ import { Carousel } from "react-bootstrap";
 
 function Section1() {
   return (
-    <div className="firstSection" id="firstSection">
+    <div className="firstSection" id="/">
       <div className="redbg"></div>
       <div className="sectionOneImg">
         <img

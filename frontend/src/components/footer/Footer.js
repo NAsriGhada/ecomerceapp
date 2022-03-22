@@ -2,7 +2,7 @@ import React from "react";
 import "./Footer.css";
 function Footer() {
   return (
-    <div className="footer" id="footer">
+    <div className="footer" id="contact">
       <div className="footer-dark">
         <footer>
           <div className="container">
